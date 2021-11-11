@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0a4f2f"],{"092b":function(e,n,t){"use strict";t.r(n);var s=function(){var e=this,n=e.$createElement;e._self._c;return e._m(0)},u=[function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",[t("h1",[e._v("32 Bits")]),t("h2",[e._v("Juegos de PC y Consolas")])])}],c=t("2877"),l={},r=Object(c["a"])(l,s,u,!1,null,null,null);n["default"]=r.exports}}]);
+//# sourceMappingURL=chunk-2d0a4f2f.b0c7e0c3.js.map
